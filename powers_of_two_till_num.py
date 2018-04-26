@@ -1,5 +1,5 @@
 """
-Print power of 2 from 2 till input number inclusively with recursion
+Print powers of 2 from 2 till input number inclusively with recursion
 """
 
 
